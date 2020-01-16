@@ -27,6 +27,7 @@ the included video and test image to test your implementations.
 
 ## Running the file 
 ```python app.py -i blue-car.jpg```
+
 ```python app.py -i test_video.mp4```
 
 ## Output
