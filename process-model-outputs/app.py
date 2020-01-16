@@ -97,3 +97,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+Running the code : python app.py -m model.xml
+
+Output:
+
+Log: Incident at 3.80 seconds.
+Break it up!
+Log: Incident at 10.87 seconds.
+Break it up!
+Log: Incident at 17.77 seconds.
+Break it up!
+
+"""

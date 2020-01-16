@@ -23,3 +23,18 @@ cat and dog #2 are detected together. **Note**: It's important to consider wheth
 want to output a warning *every single time* both pets are on-screen - is your warning helpful
 if it re-starts every 30th of a second, with a video at 30 fps?
 
+
+### Running the code : 
+```python app.py -m model.xml```
+
+### Output:
+
+```
+Log: Incident at 3.80 seconds.
+Break it up!
+Log: Incident at 10.87 seconds.
+Break it up!
+Log: Incident at 17.77 seconds.
+Break it up!
+```
+
