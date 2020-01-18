@@ -1,5 +1,10 @@
 # intel-edge-AI
 
+## About the Intel Edge AI
+The course is provided by Udacuty and Intel which is the introduction to the Edge Computing
+
+## Steps to run
+
 - Create Virtual Environment
 - Activate the virtual envirnoment
 - Download the OpenVINO Toolkit
